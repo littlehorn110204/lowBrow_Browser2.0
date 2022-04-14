@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "lowBrow_Browser2.0",
     "version": "1.0.0",
     "description": "A Browser written in ECMA-Script",
@@ -12,3 +13,26 @@
         "electron": "^18.0.2"
     }
 }
+=======
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^18.0.3"
+  }
+}
+>>>>>>> 88245c43c151ecbbce3ef0c072c60c6a87c06453
