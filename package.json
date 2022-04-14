@@ -6,7 +6,7 @@
     "scripts": {
         "start": "electron ."
     },
-    "author": "littlehorn110204",
+    "author": "Github",
     "license": "CC0-1.0",
     "devDependencies": {
         "electron": "^18.0.2"
